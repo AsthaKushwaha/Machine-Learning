@@ -1,17 +1,17 @@
-##We use classification to predict a category.
+## We use classification to predict a category.
 
 Implementation of the following Machine Learning Classification models:
 
-#Logistic Regression
+1.Logistic Regression
 
-#K-Nearest Neighbors (K-NN)
+2.K-Nearest Neighbors (K-NN)
 
-#Support Vector Machine (SVM)
+3.Support Vector Machine (SVM)
 
-#Kernel SVM
+4.Kernel SVM
 
-#Naive Bayes
+5.Naive Bayes
 
-#Decision Tree Classification
+6.Decision Tree Classification
 
-#Random Forest Classification
+7.Random Forest Classification
