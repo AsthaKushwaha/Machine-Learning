@@ -1,4 +1,5 @@
-We use classification to predict a category.
+##We use classification to predict a category.
+
 Implementation of the following Machine Learning Classification models:
 
 #Logistic Regression
